@@ -4,4 +4,4 @@ numpy==1.18.4
 opencv-python==4.2.0.34
 pynput==1.6.8
 PySimpleGUI==4.19.0
-Pillow==7.1.2
+Pillow==8.1.1
